@@ -6,7 +6,7 @@
 -----
 ### Deployed Link
 >
->https://baumerr.github.io/Pokemon-Stats/
+>
 --------------------
 ### Screenshot
 >
