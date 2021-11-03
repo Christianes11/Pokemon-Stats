@@ -6,7 +6,7 @@
 -----
 ### Deployed Link
 >
->
+>https://christianes11.github.io/Pokemon-Stats/
 --------------------
 ### Screenshot
 >
